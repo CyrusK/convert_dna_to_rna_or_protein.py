@@ -1,6 +1,6 @@
 # Convert DNA to RNA or Protein
 
-Here is some Python script  I put together (DNA conversion above) that takes any DNA string (gDNA, cDNA, etc..) and optionally prints its RNA translation or all of the possible valid protein(s) sequences with start and stop codons included. The script will conveniently take an operation and filename of your choice from the command line and print the output.
+Here is some Python script I put together (DNA translation file above) that takes any DNA string (gDNA, cDNA, etc..) and optionally prints its RNA translation or all of the possible valid protein(s) sequences with start and stop codons included. The script will conveniently take an operation and filename of your choice from the command line and print the output.
 
 For example:
 
@@ -17,4 +17,4 @@ DNA: ATGACGGCTTGTTTCTTTTCTGTGGCTGCGTGA
 RNA: AUGACGGCUUGUUUCUUUUCUGUGGCUGCGUGA 
 AA sequence: MTACFFSVAA
 
-The code in this repository would be useful for anyone in biotech or pharma R&D doing big data genomic analysis.
+The code in this repository is open source.  It may be useful for anyone in biotech R&D working on big data genomic analysis.
