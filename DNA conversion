@@ -1,3 +1,5 @@
+#Convert DNA string into RNA translation or theoretically valid Protein optionally via the command line in 
+#python by taking the filename and running either  code_name.py --rna dna.txt or code_name.py --genes dna.txt 
 #Takes cDNA and converts it into RNA and AA sequence
 #Procure DNA sequence
 
