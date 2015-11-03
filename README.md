@@ -4,7 +4,7 @@ Here is some Python script  I put together (DNA conversion above) that takes any
 
 For example:
 
-$catdna.txt
+$dna.txt
 GCGCTTGGTTTAATGACGGCTTGTTTCTTTTCTGTGGCTGCGTGAAAGCCTTGAGGGGCTCCGGGAGGGCCCTTT GTGCGGGGGGAGCGGCTCGGGGGGTGCGTGCGTGTGTGTGTGCGTGGGGAGCG
 
 $python conversion.py --rna dna.txt
